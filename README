@@ -1,0 +1,16 @@
+# arcos_json
+On July 15, the DOJ and the DEA released a portion of the Automation of Reports and 
+Consolidated Orders System (ARCOS) database to the public.  
+
+You can read The Washington Post's coverage and analysis of the database 
+[here](https://www.washingtonpost.com/investigations/76-billion-opioid-pills-newly-released-federal-data-unmasks-the-epidemic/2019/07/16/5f29fd62-a73e-11e9-86dd-d7f0e60391e9_story.html?utm_term=.699d85f7eaa9).  
+
+All reports in the database are in PDF format, which makes it painful for data 
+analysis.  
+
+I am attempting to scrape all PDFs and republish them in JSON format. This repo 
+will contain all JSON copies of the report, plus the scripts used to generate them.  
+
+If you have another suggestion for what format to use, please open an issue.  
+
+[bransonf is embarking on a similar project](https://github.com/bransonf/ARCOS_Scrape)
